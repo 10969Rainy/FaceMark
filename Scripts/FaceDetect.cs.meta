@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e23559a2d901f514890a4dccff0e7d51
+timeCreated: 1523151205
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - debugInfo: {instanceID: 0}
+  - portrait: {instanceID: 0}
+  - texture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
